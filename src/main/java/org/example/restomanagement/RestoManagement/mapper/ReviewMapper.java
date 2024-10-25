@@ -1,5 +1,8 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.mapper;
 
+
+import org.example.restomanagement.RestoManagement.DTO.ReviewDTO;
+import org.example.restomanagement.RestoManagement.entity.Review;
 
 public class ReviewMapper {
 

@@ -1,4 +1,4 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.Entity;

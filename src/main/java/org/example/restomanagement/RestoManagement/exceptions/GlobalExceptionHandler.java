@@ -1,6 +1,7 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.exceptions;
 
 
+import org.example.restomanagement.RestoManagement.RestaurantConstants;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

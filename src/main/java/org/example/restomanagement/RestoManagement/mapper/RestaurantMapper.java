@@ -1,4 +1,7 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.mapper;
+
+import org.example.restomanagement.RestoManagement.DTO.RestaurantDTO;
+import org.example.restomanagement.RestoManagement.entity.Restaurant;
 
 public class RestaurantMapper {
 

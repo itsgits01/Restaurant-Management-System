@@ -1,6 +1,9 @@
 package org.example.restomanagement.RestoManagement;
 
 
+import org.example.restomanagement.RestoManagement.entity.Review;
+import org.example.restomanagement.RestoManagement.exceptions.InvalidReviewException;
+
 public class ReviewValidator {
 
     public static void validateReview(Review review) {

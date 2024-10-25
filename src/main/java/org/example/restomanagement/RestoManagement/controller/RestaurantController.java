@@ -1,6 +1,10 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.controller;
 
 import jakarta.validation.Valid;
+import org.example.restomanagement.RestoManagement.*;
+import org.example.restomanagement.RestoManagement.DTO.RestaurantDTO;
+import org.example.restomanagement.RestoManagement.exceptions.RestaurantNotFoundException;
+import org.example.restomanagement.RestoManagement.services.RestaurantService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;

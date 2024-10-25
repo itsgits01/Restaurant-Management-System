@@ -1,4 +1,6 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.controller;
+import org.example.restomanagement.RestoManagement.DTO.ReviewDTO;
+import org.example.restomanagement.RestoManagement.services.ReviewService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

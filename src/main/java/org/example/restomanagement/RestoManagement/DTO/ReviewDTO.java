@@ -1,4 +1,4 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.DTO;
 
 public class ReviewDTO {
 

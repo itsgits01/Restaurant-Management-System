@@ -1,4 +1,4 @@
-package org.example.restomanagement.RestoManagement;
+package org.example.restomanagement.RestoManagement.entity;
 
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
@@ -10,6 +10,7 @@ import jakarta.persistence.Table;
 import jakarta.persistence.Column;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.CascadeType;
+
 import java.util.List;
 @Entity
 @Table(name = "restaurant")

@@ -1,5 +1,6 @@
 package org.example.restomanagement.RestoManagement;
 
+import org.example.restomanagement.RestoManagement.DTO.RestaurantDTO;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
